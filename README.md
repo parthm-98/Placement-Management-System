@@ -1,7 +1,5 @@
 # Placement-Management-System
 
-One Paragraph of project description goes here
-
 ## Problem Definition:
 An application that provides information related to the Placement Management system and smoothens the process by automation and using a well designed Database System. 
 
